@@ -3,4 +3,4 @@ Detect the presence of the malaria parasite in your blood sample
 
 Pre-requisites - Magnified Blood Sample
 
-Results - Two CNN model
+Results - Two CNN models
